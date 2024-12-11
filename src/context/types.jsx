@@ -1,0 +1,1 @@
+export const HANDLE_THEME = 'HANDLE_THEME'
